@@ -3,3 +3,10 @@ The second line.
 3rd one
 4
 edit line do anything
+
+For HTTP error
+git remote remove origin
+git remote add origin 'link'
+git remote add -u origin 'link'
+
+'link' -> Project link -> https://github.com/pranshu-s18/githiq44/
