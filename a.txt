@@ -4,6 +4,7 @@ The second line.
 4
 hello world
 edit line do anything
+dhicchik dhicchik
 
 For HTTP error
 git remote remove origin
